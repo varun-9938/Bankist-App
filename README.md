@@ -1,6 +1,6 @@
 Hi, use below URL for web application and creds to play arround.
 
-URL : https://bankistappp.netlify.app/
+URL : https://bankist-app-varun.netlify.app/
 
 Account 1:
 username: vds,
